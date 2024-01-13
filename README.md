@@ -6,4 +6,4 @@
 
       Clone the project and customize it to ur fitting and enjoy :)
 
-<img width="437" alt="work3 3 1" src="https://github.com/kidusw/Attendance-Management-with-java-swing-and-my-sql/assets/99359601/89ef072f-7245-49ca-b6ab-5a93c6925913">
+
