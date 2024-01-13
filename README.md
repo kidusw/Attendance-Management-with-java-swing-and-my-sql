@@ -5,3 +5,5 @@
   As far as database connectivity is concerned make sure to create ur own database in my sql and also change the name in the DBconnector java file as well,also make sure to download and include a mysql connector jar file in the project library folder, then you should be good to go as far as database connectivity is concerned.
 
       Clone the project and customize it to ur fitting and enjoy :)
+
+<img width="437" alt="work3 3 1" src="https://github.com/kidusw/Attendance-Management-with-java-swing-and-my-sql/assets/99359601/89ef072f-7245-49ca-b6ab-5a93c6925913">
